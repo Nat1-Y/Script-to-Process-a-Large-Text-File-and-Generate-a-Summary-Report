@@ -1,4 +1,4 @@
-  GNU nano 5.4                                                                                                       script.sh                                                                                                                
+                                                                                                               
 #!/bin/bash
 
 # Define input log file and output summary report
